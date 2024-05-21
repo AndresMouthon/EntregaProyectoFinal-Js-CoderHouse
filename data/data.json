@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "nombre": "Chorizo",
+    "categoria": "Chorizos",
+    "existencia": 0,
+    "precio": 4000,
+    "img": "chorizo.png"
+  },
+  {
+    "id": 2,
+    "nombre": "Arepa de pollo",
+    "categoria": "Arepas",
+    "existencia": 30,
+    "precio": 6000,
+    "img": "arepa_de_pollo.png"
+  },
+  {
+    "id": 3,
+    "nombre": "Picada con todo",
+    "categoria": "Picadas",
+    "existencia": 30,
+    "precio": 15000,
+    "img": "picada_con_todo.png"
+  },
+  {
+    "id": 4,
+    "nombre": "Arepa de Jamon",
+    "categoria": "Arepas",
+    "existencia": 10,
+    "precio": 4000,
+    "img": "arepa_de_jamon.png"
+  },
+  {
+    "id": 5,
+    "nombre": "Picada",
+    "categoria": "Picadas",
+    "existencia": 30,
+    "precio": 10000,
+    "img": "picada.png"
+  },
+  {
+    "id": 6,
+    "nombre": "Arepa de queso",
+    "categoria": "Arepas",
+    "existencia": 30,
+    "precio": 3500,
+    "img": "arepa_de_queso.png"
+  },
+  {
+    "id": 7,
+    "nombre": "Picada doble",
+    "categoria": "Picadas",
+    "existencia": 30,
+    "precio": 1800,
+    "img": "picada_doble.png"
+  },
+  {
+    "id": 8,
+    "nombre": "Arepa de Chorizo",
+    "categoria": "Arepas",
+    "existencia": 30,
+    "precio": 7500,
+    "img": "arepa_de_chorizo.png"
+  },
+  {
+    "id": 9,
+    "nombre": "Arepa de carne",
+    "categoria": "Arepas",
+    "existencia": 30,
+    "precio": 6500,
+    "img": "arepa_de_carne.png"
+  }
+]
